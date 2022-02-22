@@ -63,3 +63,8 @@
 
 ## Details
 ![Metrics](https://metrics.lecoq.io/gohoyer?template=classic&isocalendar=1&languages=1&followup=1&people=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=true&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories.featured=gohoyer%2FAlfred-Cheat.sh&config.timezone=America%2FSao_Paulo)
+
+## Buy me a coffe 
+
+[![Donate](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png#gh-light-mode-only)](https://www.paypal.com/donate/?business=2EYDL2TJFCMP8&no_recurring=0&item_name=Your+support+is+highly+appreciated%21&currency_code=BRL)
+
